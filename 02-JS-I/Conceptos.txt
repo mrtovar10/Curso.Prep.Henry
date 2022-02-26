@@ -1,0 +1,16 @@
+Variables: Es un espacio de memoria que sirve para guardar información, se le asigna un nombre y un tipo.
+
+Strings: Es un tipo de variable que sirve para guardar caracteres de texto, van entre comillas. Ejemplo: 'Hola'
+
+Funciones: Es un conjunto de instrucciones que pueden ser ejecutadas a traves del nombre que recibe la funcion. 
+Las funciones pueden tener datos de entrada (argumentos) que necesitan para ejecutarse correctamente.
+Pueden o no retornar un valor a traves del comando return
+
+Declaraciones if: Son elementos condicionales que contienen instrucciones dentro y solo se ejecutan si se cumplen una serie
+de condiciones.
+
+Valores booleanos: Existen solamente dos valores true o false, se pueden usar en conjunto con los condicionales para verificar que
+un valor es verdadero (true) o falso (false).
+
+
+
